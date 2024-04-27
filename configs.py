@@ -21,7 +21,7 @@ class Config(object):
 	ABOUT_BOT_TEXT = f"""
 This is Permanent Files Store Bot!
 Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
-Any Issue Msg Here - @iTS_ViSHWA14
+**Any Issue Msg Me - @iTS_ViSHWA14**
 
 🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
 
@@ -50,5 +50,6 @@ Also remember that developer will Delete Adult Contents from Database. So better
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
 
 Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check **About Bot** Button.
-If Do You Want Any Marathi Serial Channel Link MSG Me Here - @iTS_ViSHWA14
+
+**If Do You Want Any Marathi Serial Channel Link MSG Me Here - @iTS_ViSHWA14**
 """
