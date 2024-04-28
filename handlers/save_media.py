@@ -54,9 +54,9 @@ async def save_batch_media_in_channel(bot: Client, editable: Message, message_id
             f"**Batch Files Stored in my Database!**\n\nHere is the Permanent Link of your files: {share_link} \n\n"
             f"Just Click the link to get your files!",
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton("Open Link", url=share_link)],
-                 [InlineKeyboardButton("Bots Channel", url="https://t.me/Discovery_Updates"),
-                  InlineKeyboardButton("Support Group", url="https://t.me/JoinOT")]]
+                [[InlineKeyboardButton("Oᴘᴇɴ Lɪɴᴋ🔗", url=share_link)],
+                 [InlineKeyboardButton("Uᴘᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ💥", url="https://t.me/Marathi_Tv_Serials"),
+                  InlineKeyboardButton("Oᴡɴᴇʀ😎", url="https://t.me/iTS_ViSHWA14")]]
             ),
             disable_web_page_preview=True
         )
@@ -93,9 +93,9 @@ async def save_media_in_channel(bot: Client, editable: Message, message: Message
             f"Here is the Permanent Link of your file: {share_link} \n\n"
             "Just Click the link to get your file!",
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton("Open Link", url=share_link)],
-                 [InlineKeyboardButton("Bots Channel", url="https://t.me/Discovery_Updates"),
-                  InlineKeyboardButton("Support Group", url="https://t.me/JoinOT")]]
+                [[InlineKeyboardButton("Oᴘᴇɴ Lɪɴᴋ🔗", url=share_link)],
+                 [InlineKeyboardButton("Uᴘᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ💥", url="https://t.me/Marathi_Tv_Serials"),
+                  InlineKeyboardButton("Oᴡɴᴇʀ😎", url="https://t.me/iTS_ViSHWA14")]]
             ),
             disable_web_page_preview=True
         )
