@@ -386,7 +386,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                                 InlineKeyboardButton("💥 Jᴏɪɴ Oᴜʀ Uᴘᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ", url=invite_link.invite_link)
                             ],
                             [
-                                InlineKeyboardButton("🔄 Rᴇғʀᴇꜱʜ 🔄", f"https://telegram.me/{Config.BOT_USERNAME}?start=AbirHasan2005_{str_to_b64(file_er_id)})
+                                InlineKeyboardButton("🔄 Rᴇғʀᴇꜱʜ 🔄", callback_data='refreshmeh')
                             ]
                         ]
                     )
