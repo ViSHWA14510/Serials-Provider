@@ -386,7 +386,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                                 InlineKeyboardButton("💥 Jᴏɪɴ Oᴜʀ Uᴘᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ", url=invite_link.invite_link)
                             ],
                             [
-                                InlineKeyboardButton("🔄 Rᴇғʀᴇꜱʜ 🔄", callback_data="refreshmeh")
+                                InlineKeyboardButton("🔄 Rᴇғʀᴇꜱʜ 🔄", url=share_link")
                             ]
                         ]
                     )
