@@ -31,14 +31,14 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @iTS_ViSHWA14
+🧑🏻‍💻 **Developer:** [ViSHW∆](https://t.me/iTS_ViSHWA14)
 
 👥 **Support Group:** [ViSHWA⚡](https://t.me/iTS_ViSHWA14)
 
 📢 **Updates Channel:** [Marathi Serials](https://t.me/Marathi_Tv_Serialsx)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @iTS_ViSHWA14
+🧑🏻‍💻 **Developer:** [ViSHW∆](https://t.me/iTS_ViSHWA14)
 
 Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
 
